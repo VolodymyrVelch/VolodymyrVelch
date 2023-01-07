@@ -14,6 +14,8 @@
   <img src="https://img.icons8.com/fluency/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/sass.png"/>
   <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+  <img src="https://icons8.com/icon/hsPbhkOH4FMe/node-js"/>
+  <img src="https://icons8.com/icon/74402/mongodb"/>
   <img src="https://img.icons8.com/fluency/48/000000/github.png"/>
   <img src="https://img.icons8.com/color/48/000000/webpack.png"/>
   <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
